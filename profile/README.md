@@ -2,7 +2,9 @@
 
 ### `Torche`
 
-Fast, creative, and cozy apps designed to make digital experiences effortless. Our mission is to combine speed, comfort, and smart design in every project we release.
+Welcome to **Torche** – where speed, creativity, and cozy design come together to make everyday digital experiences effortless. We build apps and tools that are fast, intuitive, and designed to inspire creativity while keeping your workflow smooth and enjoyable.  
+
+Whether you're exploring our latest releases, contributing to our projects, or just checking out what we’re building next, Torche is all about making digital life easier and more delightful.  
 
 <a href="https://www.torche.com">Website</a> ·
 <a href="https://docs.torche.com">Documentation</a> ·
@@ -10,4 +12,4 @@ Fast, creative, and cozy apps designed to make digital experiences effortless. O
 <a href="https://www.torche.com/releases">Release Notes</a> ·
 <a href="https://www.torche.com/contribute">Contribute</a>
 
-[![Status badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fstatus.torche.com%2Fshield.json&style=for-the-badge)](https://status.torche.com)
+[![Status badge](https://www.statuspal.io/api/badge/status?service=torche&style=for-the-badge)](https://www.statuspal.io)
