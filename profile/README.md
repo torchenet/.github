@@ -12,4 +12,4 @@ Whether you're exploring our latest releases, contributing to our projects, or j
 <a href="https://www.torche.com/releases">Release Notes</a> ·
 <a href="https://www.torche.com/contribute">Contribute</a>
 
-[![Status badge](https://www.statuspal.io/api/badge/status?service=torche&style=for-the-badge)](https://www.statuspal.io)
+[![Status](https://statuspal.io/YOUR_PAGE_ID_HERE/badge.svg)](https://statuspal.io/YOUR_PAGE_ID_HERE)
