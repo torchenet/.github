@@ -2,12 +2,12 @@
 
 ### `Torche`
 
-Fast, creative, and cozy apps that make digital life effortless. Explore, use, or contribute—Torche is built to inspire and simplify.
+Fast, creative, and cozy apps that make digital life effortless. Explore, use, or contribute — Torche is built to inspire and simplify.
 
-<a href="https://www.torche.com">Website</a> ·
-<a href="https://docs.torche.com">Docs</a> ·
-<a href="https://www.torche.com/download">Get Apps</a> ·
-<a href="https://www.torche.com/releases">Releases</a> ·
-<a href="https://www.torche.com/contribute">Contribute</a>
+· <a href="https://www.torche.com">Website</a><br>
+· <a href="https://docs.torche.com">Docs</a><br>
+· <a href="https://www.torche.com/download">Get Apps</a><br>
+· <a href="https://www.torche.com/releases">Releases</a><br>
+· <a href="https://www.torche.com/contribute">Contribute</a>
 
 [![Status](https://cronitor.io/badge/torche/status)](https://cronitor.io)
